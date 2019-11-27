@@ -56,7 +56,7 @@ h2 {
     height: 600px;
     width: 100%;
     opacity: 90%;
-    background: url("/assets/img/love_running.jpg") no-repeat;
+    background: url("assets/img/love_running.jpg") no-repeat;
     background-position: 50% 0;
     animation-name: hero-zoom;
     animation-duration: 5s;
