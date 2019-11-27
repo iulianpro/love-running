@@ -175,13 +175,13 @@ hr {
 }
 
 #circle-cover-bg {
-    background: url("/assets/img/smile-running1.jpg") no-repeat center center;
+    background: url("assets/img/smile-running1.jpg") no-repeat center center;
     height: 100%;
     border-radius: 50%;
 }
 
 #times {
-    background-image: url("/assets/img/place-running.jpg");
+    background-image: url("assets/img/place-running.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -236,7 +236,7 @@ footer {
 
 .form-section {
     clear: both;
-    background: url("/assets/img/form-bg.jpg");
+    background: url("assets/img/form-bg.jpg");
     background-size: cover;
     background-position: center;
     height: 900px;
